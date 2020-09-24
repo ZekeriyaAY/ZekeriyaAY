@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Zekeriya AY</h1>
+<h3 align="center">A college student interested in cyber security from Turkey</h3>
 
-<!--
-**ZekeriyaAY/ZekeriyaAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zekeriyaay" alt="zekeriyaay" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Bug Bounty**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://leadscript.gitbook.io/kutuphane/](https://leadscript.gitbook.io/kutuphane/)
+
+- 📫 How to reach me **ay.zekeriya2000@gmail.com**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekeriyaay&layout=compact" alt="zekeriyaay" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekeriyaay&show_icons=true" alt="zekeriyaay" /></p>
+
+<p align="center">
+<a href="https://twitter.com/l3adscript" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="l3adscript" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/zekeriyaay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zekeriyaay" height="30" width="30" /></a>
+<a href="https://instagram.com/leadscript" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leadscript" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/uccg8zjg1kt-6srfb4ajhwxq?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uccg8zjg1kt-6srfb4ajhwxq?sub_confirmation=1" height="30" width="30" /></a>
+</p>
