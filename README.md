@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ay.zekeriya2000@gmail.com**
 
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekeriyaay&layout=compact" alt="zekeriyaay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekeriyaay&show_icons=true" alt="zekeriyaay" /></p>
