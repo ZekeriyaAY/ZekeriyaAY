@@ -17,5 +17,5 @@
 <a href="https://twitter.com/l3adscript" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="l3adscript" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/zekeriyaay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zekeriyaay" height="30" width="30" /></a>
 <a href="https://instagram.com/leadscript" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leadscript" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/uccg8zjg1kt-6srfb4ajhwxq?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uccg8zjg1kt-6srfb4ajhwxq?sub_confirmation=1" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1" height="30" width="30" /></a>
 </p>
