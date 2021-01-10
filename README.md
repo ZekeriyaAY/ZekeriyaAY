@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/l3adscript" target="blank"><img align="center" src="https://img.icons8.com/ios/50/000000/twitter--v2.png" alt="l3adscript" height="30" width="30" /></a>
+<a href="https://twitter.com/l3adscript" target="blank"><img align="center" src="https://img.icons8.com/wired/64/000000/twitter.png" alt="l3adscript" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/zekeriyaay" target="blank"><img align="center" src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="zekeriyaay" height="30" width="30" /></a>
 <a href="https://instagram.com/leadscript" target="blank"><img align="center" src="https://img.icons8.com/ios/50/000000/instagram-new--v3.png" alt="leadscript" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1" target="blank"><img align="center" src="https://img.icons8.com/ios/50/000000/youtube--v2.png" alt="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1" target="blank"><img align="center" src="https://img.icons8.com/wired/64/000000/youtube-play.png" alt="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1" height="30" width="30" /></a>
 </p>
