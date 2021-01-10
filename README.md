@@ -11,9 +11,10 @@
 
 <!-- <p align="left"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="40" height="40"/></p> -->
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekeriyaay&layout=compact" alt="zekeriyaay" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zekeriyaay&show_icons=true" alt="zekeriyaay" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekeriyaay&layout=compact" alt="zekeriyaay" />
 </p>
+<div>Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 <p align="center">
 <a href="https://twitter.com/l3adscript" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="l3adscript" height="30" width="30" /></a>
