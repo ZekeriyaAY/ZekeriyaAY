@@ -9,17 +9,15 @@
 
 - 📫 How to reach me **ay.zekeriya2000@gmail.com**
 
-<!-- <p align="left"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="40" height="40"/></p> -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zekeriyaay&show_icons=true&hide=prs,issues,contribs?count_private=true?bg_color=COLOR1" alt="zekeriyaay" />
-<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekeriyaay&layout=compact?theme=dark" alt="zekeriyaay" />
-<br><img src="https://github-readme-stats.vercel.app/api/pin/?username=zekeriyaay&repo=ZekeriyaAY/TrixBot?show_owner=true" alt="zekeriyaay" />
+<a href="https://twitter.com/l3adscript" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="l3adscript" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/zekeriyaay" target="blank"><img align="center" src="https://tanglewoodenergypartners.com/wp-content/uploads/2019/04/Linkedin-logo.png" alt="zekeriyaay" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1" height="30" width="30" /></a>
 </p>
 
 
+
 <p align="center">
-<a href="https://twitter.com/l3adscript" target="blank"><img align="center" src="https://img.icons8.com/wired/64/000000/twitter.png" alt="l3adscript" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/zekeriyaay" target="blank"><img align="center" src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="zekeriyaay" height="30" width="30" /></a>
-<a href="https://instagram.com/leadscript" target="blank"><img align="center" src="https://img.icons8.com/ios/50/000000/instagram-new--v3.png" alt="leadscript" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1" target="blank"><img align="center" src="https://img.icons8.com/wired/64/000000/youtube-play.png" alt="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1" height="30" width="30" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=zekeriyaay&show_icons=true&hide=prs,issues,contribs?count_private=true?bg_color=COLOR1" alt="zekeriyaay" />
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekeriyaay&layout=compact?theme=dark" alt="zekeriyaay" />
 </p>
