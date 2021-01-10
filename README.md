@@ -15,6 +15,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekeriyaay&layout=compact?theme=dark" alt="zekeriyaay" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekeriyaay&repo=TrixBot?show_owner=true" alt="zekeriyaay" />
 </p>
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://twitter.com/l3adscript" target="blank"><img align="center" src="https://img.icons8.com/wired/64/000000/twitter.png" alt="l3adscript" height="30" width="30" /></a>
