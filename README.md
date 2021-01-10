@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zekeriya AY</h1>
-<h3 align="center">A college student interested in cyber security from Turkey</h3>
+<h3 align="center">A computer engineering college student interested in cyber security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zekeriyaay" alt="zekeriyaay" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ay.zekeriya2000@gmail.com**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+//<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekeriyaay&layout=compact" alt="zekeriyaay" /></p>
 
