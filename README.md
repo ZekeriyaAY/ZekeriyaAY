@@ -13,7 +13,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zekeriyaay&show_icons=true&hide=prs,issues,contrib?count_private=true?theme=dark" alt="zekeriyaay" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekeriyaay&layout=compact?theme=dark" alt="zekeriyaay" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekeriyaay&repo=trixbot?show_owner=true" alt="zekeriyaay" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekeriyaay&repo=TrixBot?show_owner=true" alt="zekeriyaay" />
 </p>
 
 <p align="center">
