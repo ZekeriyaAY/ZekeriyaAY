@@ -11,7 +11,7 @@
 
 <!-- <p align="left"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="40" height="40"/></p> -->
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekeriyaay&show_icons=true?theme=radical&hide=prs,issues,contribs?count_private=true" alt="zekeriyaay" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekeriyaay&show_icons=true&hide=prs,issues,contribs?count_private=true?theme=dark" alt="zekeriyaay" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekeriyaay&layout=compact?theme=dark" alt="zekeriyaay" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekeriyaay&repo=github-readme-stats?show_owner=true" alt="zekeriyaay" />
 </p>
