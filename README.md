@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Bug Bounty**
 
-- 👨‍💻 All of my projects are available at [leadscript.gitbook.io](https://leadscript.gitbook.io)
+- 👨‍💻 All of my projects are available at [zekeriyaay.github.io](https://zekeriyaay.github.io)
 
 - 📫 How to reach me **ayzekeriya@outlook.com**
 
