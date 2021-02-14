@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zekeriya AY</h1>
-<h3 align="center">A computer engineering college student interested in cyber security</h3>
+<h3 align="center">computer engineering college student interested in cyber security</h3>
 
 
 - 🌱 I’m currently learning **Bug Bounty**
