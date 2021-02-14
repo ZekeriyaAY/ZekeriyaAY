@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Bug Bounty**
 
+- 🔭 I’m currently working on **Discord Bot**, **Blog**
+
 - 👨‍💻 All of my projects are available at [zekeriyaay.github.io](https://zekeriyaay.github.io)
 
 - 📫 How to reach me **ayzekeriya@outlook.com**
