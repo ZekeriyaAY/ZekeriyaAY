@@ -30,6 +30,6 @@
 <a href="https://github.com/zekeriyaay/trixbot" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekeriyaay&repo=trixbot&show_owner=True&theme=dark"/></a>
 <a href="https://github.com/zekeriyaay/zekeriyaay.github.io" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zekeriyaay&repo=zekeriyaay.github.io&show_owner=True&theme=dark"/></a>
 </p>
-___
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zekeriyaay&show_icons=true&theme=dark&locale=en&layout=compact" alt="zekeriyaay" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zekeriyaay&show_icons=true&theme=dark&locale=en&hide=prs&count_private=true&custom_title=GitHub Stats&include_all_commits=True" alt="zekeriyaay" /></p>
