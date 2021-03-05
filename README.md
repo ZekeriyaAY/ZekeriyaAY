@@ -15,7 +15,7 @@
   <a href="https://discord.io/trix"><img src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png" alt="discord-trix"/></a>
   <a href="https://linkedin.com/in/zekeriyaay"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="youtube"/></a>
-  <a href="https://twitter.com/l3adscript"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter"/></a>
+  <a href="https://twitter.com/l3adscript"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter"/></a>
 </p>
 
 
