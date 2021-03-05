@@ -12,7 +12,7 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <a href="https://discord.io/trix"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="discord-trix"/></a>
+  <a href="https://discord.io/trix"><img src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png" alt="discord-trix"/></a>
   <a href="https://twitch.tv/erystrix"><img src="https://img.icons8.com/color/48/000000/twitch--v2.png" alt="twitch"/></a>
   <a href="https://linkedin.com/in/zekeriyaay"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="youtube"/></a>
