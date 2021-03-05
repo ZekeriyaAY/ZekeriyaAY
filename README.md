@@ -10,12 +10,14 @@
 
 
 <h3 align="center">Connect with me</h3>
+
 <p align="center">
-<a href="https://twitter.com/l3adscript" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="twitter" height="56"/></a>
-<a href="https://linkedin.com/in/zekeriyaay" target="blank"><img align="center" src="https://tanglewoodenergypartners.com/wp-content/uploads/2019/04/Linkedin-logo.png" alt="linkedin" height="56"/></a>
-<a href="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="youtube" height="56"/></a>
-<a href="https://discord.io/trix" target="blank"><img align="center" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="discord" height="40"/></a>
-<a href="https://instagram.com/leadscript" target="blank"><img align="center" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=300" alt="instagram" height="40"/></a>
+  <a href="https://twitter.com/l3adscript"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter"/></a>
+  <a href="https://linkedin.com/in/zekeriyaay"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="youtube"/></a>
+  <a href="https://instagram.com/leadscript"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://discord.io/trix"><img src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png" alt="discord-trix"/></a>
+  <a href="mailto:z3k#9977"><img src="https://img.icons8.com/fluent/48/000000/discord-logo.png" alt="discord"/></a>
 </p>
 
 
