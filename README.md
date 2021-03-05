@@ -1,8 +1,6 @@
 <h1 align="center">Welcome <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Zekeriya AY</h1>
 <h3 align="center">computer engineering university student interested in cyber security</h3>
 
-Üniversitenin ilk yılında görüntü işleme gibi konuları gerçeklemiş, yazılım konusunda da tecrübe kazanmak için kendi çapında projelerle ilgilenen daha sonra siber güvenlik alanında çalışmaya karar vermiş ve bu alanda kendini geliştirmekle uğraşan bilgisayar mühendisi adayıyım. 
-
 
 - 🔭 I’m currently working on [Discord Bot](https://github.com/ZekeriyaAY/TrixBot)
 - 🌱 I’m currently learning **Bug Bounty**
