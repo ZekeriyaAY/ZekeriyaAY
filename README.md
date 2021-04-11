@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on [Discord Bot](https://github.com/ZekeriyaAY/TrixBot)
-- 🌱 I’m currently learning **Network, Bug Bounty**
+- 🌱 I’m currently learning **Network**
 - ~~📝 I write articles on [https://zekeriyaay.github.io](https://zekeriyaay.github.io/)~~
 - 📹 I'm broadcasting live on [Twitch.tv](https://www.twitch.tv/erystrix)
 
