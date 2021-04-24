@@ -1,5 +1,5 @@
 <h1 align="center">Welcome <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Zekeriya AY</h1>
-<h3 align="center">computer engineering student interested in cyber security</h3>
+<h3 align="center">computer engineer student interested in cyber security</h3>
 
 
 - 🔭 I’m currently working on [Discord Bot](https://github.com/ZekeriyaAY/TrixBot)
