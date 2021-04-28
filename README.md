@@ -2,7 +2,7 @@
 <h3 align="center">computer engineering student interested in cyber security</h3>
 
 
-- 🔭 I’m currently working on [Discord Bot](https://github.com/ZekeriyaAY/TrixBot)
+- ~~🔭 I’m currently working on [Discord Bot](https://github.com/ZekeriyaAY/TrixBot)~~
 - 🌱 I’m currently learning **Network**
 - ~~📝 I write articles on [https://zekeriyaay.github.io](https://zekeriyaay.github.io/)~~
 - 📹 I'm broadcasting live on [Twitch.tv](https://www.twitch.tv/erystrix)
