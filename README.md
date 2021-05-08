@@ -15,15 +15,14 @@
   <a href="https://twitch.tv/erystrix"><img src="https://img.icons8.com/color/48/000000/twitch--v2.png" alt="twitch"/></a>
   <a href="https://linkedin.com/in/zekeriyaay"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="youtube"/></a>
-  <a href="https://twitter.com/l3adscript"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter"/></a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages, Tools and Others</h3>
 
 <p align="center">
   <a href="https://www.linux.org/"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/> </a>
   <a href="https://www.python.org"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/> </a>
+  <a href="https://www.djangoproject.com/"> <img src="https://img.icons8.com/material-outlined/24/000000/django.png" alt="django"  height=48/> </a>
   <a href="https://heroku.com"> <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="heroku"/> </a>
-  <a href="https://jekyllrb.com/"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll"  height=48/> </a>
   <a href="https://www.sqlite.org/"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height=48/> </a>
 </p>
