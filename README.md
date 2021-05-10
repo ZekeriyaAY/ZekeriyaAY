@@ -1,28 +1,43 @@
-<h1 align="center">Welcome <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Zekeriya AY</h1>
+<h1 align="center">Welcome to my profile <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/> </h1>
 <h3 align="center">computer engineering student interested in cyber security</h3>
 
+<p align="center">
+   <a href="https://www.linkedin.com/in/zekeriyaay/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1"><img title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://discord.io/erystrix"><img title="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/erystrix"><img title="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"/></a>
+</p>
 
-- ~~🔭 I’m currently working on [Discord Bot](https://github.com/ZekeriyaAY/TrixBot)~~
+- 🔭 I’m currently working on ~~[Discord Bot](https://github.com/ZekeriyaAY/TrixBot)~~
 - 🌱 I’m currently learning **Network**
 - ~~📝 I write articles on [https://zekeriyaay.github.io](https://zekeriyaay.github.io/)~~
 - 📹 I'm broadcasting live on [Twitch.tv](https://www.twitch.tv/erystrix)
 
 
-<h3 align="center">Connect with me</h3>
 
-<p align="center">
-  <a href="https://discord.io/erystrix"><img src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png" alt="discord-trix"/></a>
-  <a href="https://twitch.tv/erystrix"><img src="https://img.icons8.com/color/48/000000/twitch--v2.png" alt="twitch"/></a>
-  <a href="https://linkedin.com/in/zekeriyaay"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="youtube"/></a>
+<h3 align="center">👨‍💻 Programming Languages, Frameworks, Tools and Others</h3>
+<p align="center"> 
+  <img title="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img title="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img title="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img title="django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-<h3 align="center">Languages, Tools and Others</h3>
+<h3 align="center">🗄️ Databases and Cloud hosting</h3>
+<p align="center"> 
+  <img title="SQLite" src="https://img.shields.io/badge/SQLite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img title="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img title="Github Pages" src="https://img.shields.io/badge/Github Pages-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-<p align="center">
-  <a href="https://www.linux.org/"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/> </a>
-  <a href="https://www.python.org"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/> </a>
-  <a href="https://www.djangoproject.com/"> <img src="https://img.icons8.com/material-outlined/24/000000/django.png" alt="django"  height=48/> </a>
-  <a href="https://heroku.com"> <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="heroku"/> </a>
-  <a href="https://www.sqlite.org/"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height=48/> </a>
+<h3 align="center">💻 Software and OS</h3>
+<p align="center"> 
+  <img title="Kali Linux" src="https://img.shields.io/badge/Kali Linux-%23557C94.svg?&style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img title="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img title="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+  <img title="Visual Studio Code" src="https://img.shields.io/badge/VS Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img title="Visual Studio" src="https://img.shields.io/badge/Visual Studio-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img title="OBS Studio" src="https://img.shields.io/badge/OBS Studio-%23302E31.svg?&style=for-the-badge&logo=obs+studio&logoColor=white"/>
+  <img title="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe+photoshop&logoColor=white"/>
+  <img title="Adobe Premiere Pro" src="https://img.shields.io/badge/Premiere Pro-%239999FF.svg?&style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
 </p>
