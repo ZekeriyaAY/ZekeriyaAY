@@ -36,6 +36,8 @@
   <img title="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
   <img title="Visual Studio Code" src="https://img.shields.io/badge/VS Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img title="Visual Studio" src="https://img.shields.io/badge/Visual Studio-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</p>
+<p align="center"> 
   <img title="OBS Studio" src="https://img.shields.io/badge/OBS Studio-%23302E31.svg?&style=for-the-badge&logo=obs+studio&logoColor=white"/>
   <img title="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe+photoshop&logoColor=white"/>
   <img title="Adobe Premiere Pro" src="https://img.shields.io/badge/Premiere Pro-%239999FF.svg?&style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
