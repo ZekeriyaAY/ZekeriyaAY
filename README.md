@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working on [PyRecipe](https://github.com/PyRecipe)
-- 🌱 I’m currently learning **Network**
+- 🌱 I’m currently learning **Network**(CCNA)
 - ~~📝 I write articles on [https://zekeriyaay.github.io](https://zekeriyaay.github.io/)~~
 - 📹 I'm broadcasting live on [Twitch.tv](https://www.twitch.tv/erystrix)
 
