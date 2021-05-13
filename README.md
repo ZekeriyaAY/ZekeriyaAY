@@ -9,7 +9,7 @@
   <a href="https://www.twitch.tv/erystrix"><img title="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"/></a>
 </p>
 
-- 🔭 I’m currently working on ~~[Discord Bot](https://github.com/ZekeriyaAY/TrixBot)~~
+- 🔭 I’m currently working on ~~[Discord Bot](https://github.com/ZekeriyaAY/TrixBot)~~ [PyRecipe](https://github.com/PyRecipe)
 - 🌱 I’m currently learning **Network**
 - ~~📝 I write articles on [https://zekeriyaay.github.io](https://zekeriyaay.github.io/)~~
 - 📹 I'm broadcasting live on [Twitch.tv](https://www.twitch.tv/erystrix)
