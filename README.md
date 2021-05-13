@@ -21,6 +21,7 @@
   <img title="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img title="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img title="django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+  <img title="bootstrap" src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 <h3 align="center">🗄️ Databases and Cloud hosting</h3>
