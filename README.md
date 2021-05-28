@@ -9,10 +9,10 @@
   <a href="https://www.twitch.tv/erystrix"><img title="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"/></a>
 </p>
 
-- 🔭 I’m currently working on [PyRecipe](https://github.com/PyRecipe)
+- ~~🔭 I’m currently working on [PyRecipe](https://github.com/PyRecipe)~~
 - 🌱 I’m currently learning **Network**(CCNA)
 - ~~📝 I write articles on [https://zekeriyaay.github.io](https://zekeriyaay.github.io/)~~
-- 📹 I'm broadcasting live on [Twitch.tv](https://www.twitch.tv/erystrix)
+- ~~📹 I'm broadcasting live on [Twitch.tv](https://www.twitch.tv/erystrix)~~
 
 
 
@@ -40,7 +40,6 @@
   <img title="Visual Studio" src="https://img.shields.io/badge/Visual Studio-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 </p>
 <p align="center"> 
-  <img title="OBS Studio" src="https://img.shields.io/badge/OBS Studio-%23302E31.svg?&style=for-the-badge&logo=obs+studio&logoColor=white"/>
   <img title="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe+photoshop&logoColor=white"/>
   <img title="Adobe Premiere Pro" src="https://img.shields.io/badge/Premiere Pro-%239999FF.svg?&style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
 </p>
