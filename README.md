@@ -34,7 +34,6 @@
 <h3 align="center">💻 Software and OS</h3>
 <p align="center"> 
   <img title="Kali Linux" src="https://img.shields.io/badge/Kali Linux-%23557C94.svg?&style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img title="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img title="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
   <img title="Visual Studio Code" src="https://img.shields.io/badge/VS Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img title="Visual Studio" src="https://img.shields.io/badge/Visual Studio-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
