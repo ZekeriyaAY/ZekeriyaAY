@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile <img width="40" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/> </h1>
-<h3 align="center">computer engineering student interested in cyber security</h3> 
+<h3 align="center">computer engineering student interested in cyber security and image processing</h3> 
 
 <div align="center">
 	<a href="https://zekeriyaay.com"><img title="Personal Website" src="https://img.shields.io/badge/zekeriyaay.com-%23fc9803.svg?&style=for-the-badge&logo=Zelle&logoColor=white"/></a>
