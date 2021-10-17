@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px"> Welcome to <s><a href="https://www.youtube.com/watch?v=k1BneeJTDcU" target="_blank">the internet</a></s> my GitHub profile </h2>
-  <h3> <i>computer engineering student interested in cyber security</i> </h3>
+  <h3> <i>computer engineering student interested in cybersecurity</i> </h3>
   
   <br>
   
