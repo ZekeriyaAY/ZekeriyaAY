@@ -31,4 +31,12 @@
   <br>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+
+  <br>
+  <br>
+  
+  ```js
+  "Treat your password like your toothbrush. Don't let anybody else use it, and get a new one every six months."
+  -Clifford Stoll
+  ``` 
 </div>
