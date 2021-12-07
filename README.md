@@ -43,10 +43,6 @@
 
 📕 &nbsp;***Latest Blog Posts***
 <!-- BLOG-POST-LIST:START -->
-- [Cisco Switch Configuration](https://zekeriyaay.com/cheat-sheets/switch-configuration/)
-- [SQL](https://zekeriyaay.com/cheat-sheets/sql/)
-- [Web Pentesting](https://zekeriyaay.com/cheat-sheets/web-pentest/)
-- [Hash Crack](https://zekeriyaay.com/cheat-sheets/hash-crack/)
-- [WiFi Hack](https://zekeriyaay.com/cheat-sheets/wifi-hack/)
+- [Walkie-Talkie with nRF24L01](https://zekeriyaay.com/blog/walkie-talkie/)
 <!-- BLOG-POST-LIST:END -->
 
