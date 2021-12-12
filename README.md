@@ -41,11 +41,13 @@
   ``` 
 </div>
 
-📕 &nbsp;***Latest Blog Posts***
+📝 &nbsp;***Website Posts***
 <!-- BLOG-POST-LIST:START -->
- - 🌮 [Zekeriya AY Banner Pack | Speedart](https://www.youtube.com/watch?v=ohkR-0WmgDY)
- - 💫 [Profesyonel Git ve GitHub Kullanımı](https://www.youtube.com/watch?v=yPl6P1tXTH8)
- - 💯 [SANAL MAKİNE YOK EDİCİ | WSL 2](https://www.youtube.com/watch?v=rMk3uahvdh0)
- - 🎉 [Detaylı Windows 10 Format Atma, BIOS Güncelleme, Driver Kurma](https://www.youtube.com/watch?v=MAPzFoFgv5U)
- - 🔥 [BEDAVA Twitch Aboneliği Al](https://www.youtube.com/watch?v=BeVg4O6hAZ4)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
+- for more [👊 zekeriyaay.com](https://zekeriyaay.com)
+
+🚨 &nbsp;***Youtube Videos*** 
+<!-- YOUTUBE-VIDEO-LIST:START -->
+<!-- YOUTUBE-VIDEO-LIST:END -->
+- for more [❤️ Youtube](https://youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1)
 
