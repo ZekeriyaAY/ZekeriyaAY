@@ -43,7 +43,9 @@
 
 📕 &nbsp;***Latest Blog Posts***
 <!-- BLOG-POST-LIST:START -->
- - 🌮 [kwh](https://zekeriyaay.com/projects/kwh/)
- - 💫 [Walkie-Talkie with nRF24L01](https://zekeriyaay.com/blog/walkie-talkie/)
- - 💯 [Sniffles](https://zekeriyaay.com/projects/sniffles/)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Zekeriya AY Banner Pack | Speedart](https://www.youtube.com/watch?v=ohkR-0WmgDY)
+ - 💫 [Profesyonel Git ve GitHub Kullanımı](https://www.youtube.com/watch?v=yPl6P1tXTH8)
+ - 💯 [SANAL MAKİNE YOK EDİCİ | WSL 2](https://www.youtube.com/watch?v=rMk3uahvdh0)
+ - 🎉 [Detaylı Windows 10 Format Atma, BIOS Güncelleme, Driver Kurma](https://www.youtube.com/watch?v=MAPzFoFgv5U)
+ - 🔥 [BEDAVA Twitch Aboneliği Al](https://www.youtube.com/watch?v=BeVg4O6hAZ4)<!-- BLOG-POST-LIST:END -->
 
