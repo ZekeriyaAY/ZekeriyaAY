@@ -15,3 +15,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://zekeriyaay.com/index.xml"
+          max_post_count: "3"
+          committer_email: "zekeriya@zekeriyaay.com"
+          committer_username: "Zekeriya AY"
+          template: "$date [$randomEmoji(💯,🔥,💫,🚀,🌮) $title]($url): $description"
