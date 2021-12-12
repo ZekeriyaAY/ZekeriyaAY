@@ -43,7 +43,9 @@
 
 📝 &nbsp;***Website Posts***
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - 🌮 [kwh](https://zekeriyaay.com/projects/kwh/)
+ - 💫 [Walkie-Talkie with nRF24L01](https://zekeriyaay.com/blog/walkie-talkie/)
+ - 💯 [Sniffles](https://zekeriyaay.com/projects/sniffles/)<!-- BLOG-POST-LIST:END -->
 - for more [👊 zekeriyaay.com](https://zekeriyaay.com)
 
 🚨 &nbsp;***Youtube Videos*** 
