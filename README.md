@@ -43,7 +43,8 @@
 
 📕 &nbsp;***Latest Blog Posts***
 <!-- BLOG-POST-LIST:START -->
- - Oct 2, 2021 🌮 -> Brute-force wifi cracking tool without wordlist
- - Jul 14, 2021 💫[Walkie-Talkie with nRF24L01](https://zekeriyaay.com/blog/walkie-talkie/) -> Arduino kullanarak nasıl kablosuz konuşabiliriz? 🤔
- - Jul 12, 2021 💯 -> Signature-based IDS/IPS for home networks<!-- BLOG-POST-LIST:END -->
+- [kwh](https://zekeriyaay.com/projects/kwh/)
+- [Walkie-Talkie with nRF24L01](https://zekeriyaay.com/blog/walkie-talkie/)
+- [Sniffles](https://zekeriyaay.com/projects/sniffles/)
+<!-- BLOG-POST-LIST:END -->
 
