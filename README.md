@@ -17,7 +17,6 @@
   
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <br>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
@@ -27,6 +26,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CentOs-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
@@ -46,7 +46,7 @@
  - 🌮 [kwh](https://zekeriyaay.com/projects/kwh/)
  - 💫 [Walkie-Talkie with nRF24L01](https://zekeriyaay.com/blog/walkie-talkie/)
  - 💯 [Sniffles](https://zekeriyaay.com/projects/sniffles/)<!-- BLOG-POST-LIST:END -->
-- for more [👊 zekeriyaay.com](https://zekeriyaay.com)
+<br>*See my other posts on [👊 zekeriyaay.com](https://zekeriyaay.com)*
 
 🚨 &nbsp;***Youtube Videos*** 
 <!-- YOUTUBE-VIDEO-LIST:START -->
@@ -55,5 +55,5 @@
  - [💯 SANAL MAKİNE YOK EDİCİ | WSL 2](https://www.youtube.com/watch?v=rMk3uahvdh0) 
  - [🎉 Detaylı Windows 10 Format Atma, BIOS Güncelleme, Driver Kurma](https://www.youtube.com/watch?v=MAPzFoFgv5U) 
  - [🔥 BEDAVA Twitch Aboneliği Al](https://www.youtube.com/watch?v=BeVg4O6hAZ4) <!-- YOUTUBE-VIDEO-LIST:END -->
-- for more [❤️ Youtube](https://youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1)
+<br>*See more of my videos on [❤️ Youtube](https://youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1)*
 
