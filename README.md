@@ -43,9 +43,9 @@
 
 📝 &nbsp;***Website Posts***
 <!-- BLOG-POST-LIST:START -->
- - Oct 2, 2021 [🌮 kwh](https://zekeriyaay.com/projects/kwh/) &middot; Brute-force wifi cracking tool without wordlist
- - Jul 14, 2021 [💫 Walkie-Talkie with nRF24L01](https://zekeriyaay.com/blog/walkie-talkie/) &middot; Arduino kullanarak nasıl kablosuz konuşabiliriz? 🤔
- - Jul 12, 2021 [💯 Sniffles](https://zekeriyaay.com/projects/sniffles/) &middot; Signature-based IDS/IPS for home networks<!-- BLOG-POST-LIST:END -->
+ - Oct 2, 2021 &bull; [🌮 kwh](https://zekeriyaay.com/projects/kwh/) &bull; Brute-force wifi cracking tool without wordlist
+ - Jul 14, 2021 &bull; [💫 Walkie-Talkie with nRF24L01](https://zekeriyaay.com/blog/walkie-talkie/) &bull; Arduino kullanarak nasıl kablosuz konuşabiliriz? 🤔
+ - Jul 12, 2021 &bull; [💯 Sniffles](https://zekeriyaay.com/projects/sniffles/) &bull; Signature-based IDS/IPS for home networks<!-- BLOG-POST-LIST:END -->
 <br>*See my other posts on [👊 zekeriyaay.com](https://zekeriyaay.com)*
 
 🚨 &nbsp;***Youtube Videos*** 
