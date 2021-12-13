@@ -42,10 +42,10 @@
 </div>
 
 📝 &nbsp;***Website Posts***
-<!-- BLOG-POST-LIST:START -->- [🌮 kwh](https://zekeriyaay.com/projects/kwh/) 
-- [💫 Walkie-Talkie with nRF24L01](https://zekeriyaay.com/blog/walkie-talkie/) 
-- [💯 Sniffles](https://zekeriyaay.com/projects/sniffles/) 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+ - Oct 2, 2021 [🌮 kwh](https://zekeriyaay.com/projects/kwh/) Brute-force wifi cracking tool without wordlist
+ - Jul 14, 2021 [💫 Walkie-Talkie with nRF24L01](https://zekeriyaay.com/blog/walkie-talkie/) Arduino kullanarak nasıl kablosuz konuşabiliriz? 🤔
+ - Jul 12, 2021 [💯 Sniffles](https://zekeriyaay.com/projects/sniffles/) Signature-based IDS/IPS for home networks<!-- BLOG-POST-LIST:END -->
 <br>*See my other posts on [👊 zekeriyaay.com](https://zekeriyaay.com)*
 
 🚨 &nbsp;***Youtube Videos*** 
