@@ -20,7 +20,7 @@ jobs:
           committer_email: "zekeriya@zekeriyaay.com"
           committer_username: "Zekeriya AY"
           date_format: "UTC:mmm d, yyyy"
-          template: "$newline - $date [$randomEmoji(💯,🔥,💫,🚀,🌮,🎉,💥,🍻) $title]($url) &middot; $description"
+          template: "$newline - $date &bull; [$randomEmoji(💯,🔥,💫,🚀,🌮,🎉,💥,🍻) $title]($url) &bull; $description"
       - name: Pull in youtube videos
         uses: gautamkrishnar/blog-post-workflow@master
         with:
