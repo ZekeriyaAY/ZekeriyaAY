@@ -43,9 +43,9 @@
 
 📝 &nbsp;***Website Posts***
 <!-- BLOG-POST-LIST:START -->
- - Oct 2, 2021 &nbsp; [🌮 kwh](https://zekeriyaay.com/projects/kwh/) &nbsp; &nbsp; Brute-force wifi cracking tool without wordlist
- - Jul 14, 2021 &nbsp; [💫 Walkie-Talkie with nRF24L01](https://zekeriyaay.com/blog/walkie-talkie/) &nbsp; &nbsp; Arduino kullanarak nasıl kablosuz konuşabiliriz? 🤔
- - Jul 12, 2021 &nbsp; [💯 Sniffles](https://zekeriyaay.com/projects/sniffles/) &nbsp; &nbsp; Signature-based IDS/IPS for home networks<!-- BLOG-POST-LIST:END -->
+ - Oct 28, 2021 &nbsp; [🌮 Projelerde Aktif Git ve GitHub Kullanımı](https://zekeriyaay.com/videos/git-github-kullanimi/) &nbsp; &nbsp; GitHub projelerinizdeki issue&amp;rsquo;ya göre branch açıp düzenlemelerinizi pull requestlerle profesyonel şekilde version kontrolü yapmak için gereken Git kullanımını öğrenin.
+ - Oct 2, 2021 &nbsp; [💫 kwh](https://zekeriyaay.com/projects/kwh/) &nbsp; &nbsp; Brute-force wifi cracking tool without wordlist
+ - Aug 9, 2021 &nbsp; [💯 SANAL MAKİNE YOK EDİCİ | WSL 2](https://zekeriyaay.com/videos/wsl2/) &nbsp; &nbsp; Windows üzerinde Linux işletim sistemi kullanmak için neden WSL 2 kullanmalısınız? WSL 2&amp;rsquo;yi nasıl kuracaksınız?<!-- BLOG-POST-LIST:END -->
 <br>*See my other posts on [👊 zekeriyaay.com](https://zekeriyaay.com)*
 
 🚨 &nbsp;***Youtube Videos*** 
