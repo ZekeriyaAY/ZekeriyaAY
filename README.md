@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px"> Welcome to <s><a href="https://www.youtube.com/watch?v=k1BneeJTDcU" target="_blank">the internet</a></s> my GitHub profile </h2>
-  <h3> <i>computer engineering student interested in cybersecurity</i> </h3>
+  <h3> <i>computer engineering student interested in cybersecurity, blue team, soc</i> </h3>
   
   <br>
   
@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/ZekeriyaAY" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <br>
   <a href="https://youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1" target="_blank"> <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <a href="https://twitter.com/4y23k" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/zekeriyaaycom" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/ZekeriyaAY" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/23k" target="_blank"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>
   
@@ -43,17 +43,11 @@
 
 📝 &nbsp;***Website Posts***
 <!-- BLOG-POST-LIST:START -->
- - Oct 28, 2021 &nbsp; [🌮 Projelerde Aktif Git ve GitHub Kullanımı](https://zekeriyaay.com/videos/git-github-kullanimi/) &nbsp; &nbsp; GitHub projelerinizdeki issue&amp;rsquo;ya göre branch açıp düzenlemelerinizi pull requestlerle profesyonel şekilde version kontrolü yapmak için gereken Git kullanımını öğrenin.
- - Oct 2, 2021 &nbsp; [💫 kwh](https://zekeriyaay.com/projects/kwh/) &nbsp; &nbsp; Brute-force wifi cracking tool without wordlist
- - Aug 9, 2021 &nbsp; [💯 SANAL MAKİNE YOK EDİCİ | WSL 2](https://zekeriyaay.com/videos/wsl2/) &nbsp; &nbsp; Windows üzerinde Linux işletim sistemi kullanmak için neden WSL 2 kullanmalısınız? WSL 2&amp;rsquo;yi nasıl kuracaksınız?<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 <br>*See my other posts on [👊 zekeriyaay.com](https://zekeriyaay.com)*
 
 🚨 &nbsp;***Youtube Videos*** 
 <!-- YOUTUBE-VIDEO-LIST:START -->
- - [🌮 Zekeriya AY Banner Pack | Speedart](https://www.youtube.com/watch?v=ohkR-0WmgDY)
- - [💫 Projelerde Aktif Git ve GitHub Kullanımı](https://www.youtube.com/watch?v=yPl6P1tXTH8)
- - [💯 SANAL MAKİNE YOK EDİCİ | WSL 2](https://www.youtube.com/watch?v=rMk3uahvdh0)
- - [🎉 Detaylı Windows 10 Format Atma, BIOS Güncelleme, Driver Kurma](https://www.youtube.com/watch?v=MAPzFoFgv5U)
- - [🔥 BEDAVA Twitch Aboneliği Al](https://www.youtube.com/watch?v=BeVg4O6hAZ4)<!-- YOUTUBE-VIDEO-LIST:END -->
+<!-- YOUTUBE-VIDEO-LIST:END -->
 <br>*See more of my videos on [❤️ Youtube](https://youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1)*
 
