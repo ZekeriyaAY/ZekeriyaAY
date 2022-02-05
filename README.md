@@ -41,6 +41,8 @@
   ``` 
 </div>
 
+---
+
 📝 &nbsp;***Website Posts***
 <!-- BLOG-POST-LIST:START -->
  - [💫 Walkie-Talkie with nRF24L01, Arduino Nano](https://zekeriyaay.com/blog/walkie-talkie/) &nbsp; *Jul 14, 2021* <br> &nbsp; &nbsp; &nbsp; *How can we talk wirelessly using Arduino Nano? 🤔*
