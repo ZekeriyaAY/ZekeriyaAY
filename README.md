@@ -43,8 +43,8 @@
 
 📝 &nbsp;***Website Posts***
 <!-- BLOG-POST-LIST:START -->
- - Jul 14, 2021 &nbsp; [🌮 Walkie-Talkie with nRF24L01, Arduino Nano](https://zekeriyaay.com/blog/walkie-talkie/) &nbsp; &nbsp; How can we talk wirelessly using Arduino Nano? 🤔
- - Jan 1, 2001 &nbsp; [💫 Hi :wave: I&#39;m Zekeriya](https://zekeriyaay.com/about/) &nbsp; &nbsp; A computer engineering undergraduate student at Bursa Uludag University.<!-- BLOG-POST-LIST:END -->
+ - [💫 Walkie-Talkie with nRF24L01, Arduino Nano](https://zekeriyaay.com/blog/walkie-talkie/) &nbsp; *Jul 14, 2021* <br> &nbsp; &nbsp; &nbsp; *How can we talk wirelessly using Arduino Nano? 🤔*
+ - [👽️ Hi :wave: I&#39;m Zekeriya](https://zekeriyaay.com/about/) &nbsp; *Jan 1, 2001* <br> &nbsp; &nbsp; &nbsp; *A computer engineering undergraduate student at Bursa Uludag University.*<!-- BLOG-POST-LIST:END -->
 <br>*See my other posts on [👊 zekeriyaay.com](https://zekeriyaay.com)*
 
 🚨 &nbsp;***Youtube Videos*** 
