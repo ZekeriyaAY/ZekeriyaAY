@@ -20,4 +20,4 @@ jobs:
           committer_email: "zekeriya@zekeriyaay.com"
           committer_username: "Zekeriya AY"
           date_format: "UTC:mmm d, yyyy"
-          template: "$newline - $date &nbsp; [$randomEmoji(💯,🔥,💫,🚀,🌮,🎉,💥,🍻) $title]($url) &nbsp; &nbsp;\ $description"
+          template: "$newline - [$randomEmoji(💯,🔥,🎨,💚,👽️,💡,💫,🚀,🌮,🎉,💥,🍻) $title]($url) &nbsp; *$date* <br> &nbsp; &nbsp; &nbsp; *$description*"

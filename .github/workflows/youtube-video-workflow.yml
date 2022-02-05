@@ -19,4 +19,4 @@ jobs:
           comment_tag_name: "YOUTUBE-VIDEO-LIST"
           committer_email: "zekeriya@zekeriyaay.com"
           committer_username: "Zekeriya AY"
-          template: "$newline - [$randomEmoji(💯,🔥,💫,🚀,🌮,🎉,💥,🍻) $title]($url)"
+          template: "$newline - [$randomEmoji(💯,🔥,🎨,💚,👽️,💡,💫,🚀,🌮,🎉,💥,🍻) $title]($url)"
