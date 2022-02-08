@@ -41,17 +41,19 @@
   ``` 
 </div>
 
+---
+
 📝 &nbsp;***Website Posts***
 <!-- BLOG-POST-LIST:START -->
- - Jul 14, 2021 &nbsp; [🌮 Walkie-Talkie with nRF24L01, Arduino Nano](https://zekeriyaay.com/blog/walkie-talkie/) &nbsp; &nbsp; How can we talk wirelessly using Arduino Nano? 🤔
- - Jan 1, 2001 &nbsp; [💫 Hi :wave: I&#39;m Zekeriya](https://zekeriyaay.com/about/) &nbsp; &nbsp; A computer engineering undergraduate student at Bursa Uludag University.<!-- BLOG-POST-LIST:END -->
+ - [💫 Walkie-Talkie with nRF24L01, Arduino Nano](https://zekeriyaay.com/blog/walkie-talkie/) &nbsp; *Jul 14, 2021* <br> &nbsp; &nbsp; &nbsp; *How can we talk wirelessly using Arduino Nano? 🤔*
+ - [👽️ Hi :wave: I&#39;m Zekeriya](https://zekeriyaay.com/about/) &nbsp; *Jan 1, 2001* <br> &nbsp; &nbsp; &nbsp; *A computer engineering undergraduate student at Bursa Uludag University.*<!-- BLOG-POST-LIST:END -->
 <br>*See my other posts on [👊 zekeriyaay.com](https://zekeriyaay.com)*
 
 🚨 &nbsp;***Youtube Videos*** 
 <!-- YOUTUBE-VIDEO-LIST:START -->
- - [🌮 Zekeriya AY Banner Pack | Speedart](https://www.youtube.com/watch?v=ohkR-0WmgDY)
- - [💫 Projelerde Aktif Git ve GitHub Kullanımı](https://www.youtube.com/watch?v=yPl6P1tXTH8)
- - [💯 SANAL MAKİNE YOK EDİCİ | WSL 2](https://www.youtube.com/watch?v=rMk3uahvdh0)
- - [🎉 Detaylı Windows 10 Format Atma, BIOS Güncelleme, Driver Kurma](https://www.youtube.com/watch?v=MAPzFoFgv5U)<!-- YOUTUBE-VIDEO-LIST:END -->
+ - [💫 Zekeriya AY Banner Pack | Speedart](https://www.youtube.com/watch?v=ohkR-0WmgDY)
+ - [👽️ Projelerde Aktif Git ve GitHub Kullanımı](https://www.youtube.com/watch?v=yPl6P1tXTH8)
+ - [🔥 SANAL MAKİNE YOK EDİCİ | WSL 2](https://www.youtube.com/watch?v=rMk3uahvdh0)
+ - [🚀 Detaylı Windows 10 Format Atma, BIOS Güncelleme, Driver Kurma](https://www.youtube.com/watch?v=MAPzFoFgv5U)<!-- YOUTUBE-VIDEO-LIST:END -->
 <br>*See more of my videos on [❤️ Youtube](https://youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1)*
 
