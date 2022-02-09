@@ -44,7 +44,7 @@
 ---
 
 📝 &nbsp;***Website Posts***
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->aaa
  - [💫 Arduino Nano ve nRF24L01 ile Walkie-Talkie](https://zekeriyaay.com/walkie-talkie/) &nbsp; *Jul 14, 2021* <br> &nbsp; &nbsp; &nbsp; *&lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Warning!&lt;/strong&gt; This post not yet translate to English!&lt;br /&gt;
 If you want to help with the translation, you can &lt;a href=&quot;https://github.com/ZekeriyaAY/zekeriyaay.com/blob/jekyll/_posts/walkie-talkie/2021-07-14-walkie-talkie.md&quot;&gt;&lt;strong&gt;submit a pull request&lt;/strong&gt;&lt;/a&gt;. 🥰&lt;/p&gt;
