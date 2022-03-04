@@ -11,14 +11,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in personal website posts
+      - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://zekeriyaay.com/feed.xml"
+          feed_list: "https://medium.com/feed/@zekeriyaay"
           max_post_count: "3"
-          accept_header: "application/atom+xml"
           comment_tag_name: "BLOG-POST-LIST"
-          committer_email: "zekeriya@zekeriyaay.com"
-          committer_username: "Zekeriya AY"
           date_format: "UTC:mmm d, yyyy"
           template: "$newline - [$randomEmoji(💯,🔥,🎨,💚,👽️,💡,💫,🚀,🌮,🎉,💥,🍻) $title]($url) &nbsp; *$date*"
