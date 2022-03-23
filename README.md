@@ -47,7 +47,7 @@
 
 📝 &nbsp;***Medium Blog Posts***
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - [💫 Arduino Nano &amp; nRF24L01 ile Walkie-Talkie](https://zekeriyaay.medium.com/arduino-walkie-talkie-10ae6113e58e?source=rss-10c9c8f81000------2) &nbsp; *Mar 22, 2022*<!-- BLOG-POST-LIST:END -->
 <br>*See my other posts on [👊 medium@zekeriyaay](https://zekeriyaay.medium.com/)*
 
 🚨 &nbsp;***Youtube Videos*** 
