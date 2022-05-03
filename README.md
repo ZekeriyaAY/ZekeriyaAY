@@ -58,3 +58,8 @@
  - [🚀 Detaylı Windows 10 Format Atma, BIOS Güncelleme, Driver Kurma](https://www.youtube.com/watch?v=MAPzFoFgv5U)<!-- YOUTUBE-VIDEO-LIST:END -->
 <br>*See more of my videos on [❤️ Youtube](https://youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1)*
 
+<br>
+
+🚩 &nbsp;***Last Update***
+<!-- LAST-UPDATE:START -->
+<!-- LAST-UPDATE:END -->
