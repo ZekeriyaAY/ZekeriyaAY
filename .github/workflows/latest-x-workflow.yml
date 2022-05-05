@@ -27,7 +27,7 @@ jobs:
           comment_tag_name: "YOUTUBE-VIDEO-LIST"
           template: "$newline - [$randomEmoji(💯,🔥,🎨,💚,👽️,💡,💫,🚀,🌮,🎉,💥,🍻) $title]($url)"
       - name: Update with Datetime of Workflow
-        uses: ZekeriyaAY/workflow-date@latest
+        uses: ZekeriyaAY/workflow-date@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # date_format: '%a  %d %b %Y  %H:%M:%S%Z'
