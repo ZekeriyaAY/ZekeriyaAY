@@ -54,8 +54,7 @@
 <!-- YOUTUBE-VIDEO-LIST:START -->
  - [💫 Zekeriya AY Banner Pack | Speedart](https://www.youtube.com/watch?v=ohkR-0WmgDY)
  - [👽️ Projelerde Aktif Git ve GitHub Kullanımı](https://www.youtube.com/watch?v=yPl6P1tXTH8)
- - [🔥 SANAL MAKİNE YOK EDİCİ | WSL 2](https://www.youtube.com/watch?v=rMk3uahvdh0)
- - [🚀 Detaylı Windows 10 Format Atma, BIOS Güncelleme, Driver Kurma](https://www.youtube.com/watch?v=MAPzFoFgv5U)<!-- YOUTUBE-VIDEO-LIST:END -->
+ - [🔥 SANAL MAKİNE YOK EDİCİ | WSL 2](https://www.youtube.com/watch?v=rMk3uahvdh0)<!-- YOUTUBE-VIDEO-LIST:END -->
 <br>*See more of my videos on [❤️ Youtube](https://youtube.com/channel/UCcg8zjG1kt-6sRfb4ajHWXQ?sub_confirmation=1)*
 
 <br>
