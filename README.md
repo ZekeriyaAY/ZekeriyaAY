@@ -40,5 +40,5 @@
 <br>
 
 🚩 &nbsp; ***Last Update*** &nbsp;<!-- LAST-UPDATE:START -->
-Thu  20 Oct 2022  02:26:20 UTC
+Fri  21 Oct 2022  01:59:10 UTC
 <!-- LAST-UPDATE:END -->
