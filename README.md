@@ -28,7 +28,8 @@
 
 📝 &nbsp;***Blog Posts***
 <!-- BLOG-POST-LIST:START -->
- - [💫 Arduino Nano &amp; nRF24L01 ile Walkie-Talkie](https://blog.zekeriyaay.com/arduino-walkie-talkie) &nbsp; *Mar 22, 2022*<!-- BLOG-POST-LIST:END -->
+ - [💫 How Your Daily Coffee Habit Affects Your Working Efficiency?](https://blog.zekeriyaay.com/how-your-daily-coffee-habit-affects-your-working-efficiency) &nbsp; *Feb 26, 2023*
+ - [👽️ Arduino Nano &amp; nRF24L01 ile Walkie-Talkie](https://blog.zekeriyaay.com/arduino-walkie-talkie) &nbsp; *Mar 22, 2022*<!-- BLOG-POST-LIST:END -->
 <br>*See my other posts on [🤙🏼 blog.zekeriyaay.com](https://blog.zekeriyaay.com/)*
 
 🚨 &nbsp;***Youtube Videos*** 
