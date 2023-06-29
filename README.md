@@ -1,6 +1,6 @@
 <div align="center">
-  <h2> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"> Welcome to <s><a href="https://www.youtube.com/watch?v=k1BneeJTDcU" target="_blank">the internet</a></s> my GitHub profile </h2>
-  <h3> <i>computer engineering student interested in cybersecurity, servers, system administration, cti</i> </h3>
+  <h2> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"> welcome to <s><a href="https://www.youtube.com/watch?v=k1BneeJTDcU" target="_blank">the internet</a></s> my GitHub profile </h2>
+  <h3> <i>interested in cybersecurity, servers, system administration, cti</i> </h3>
   
   <br>
   
@@ -16,39 +16,23 @@
   <a href="https://tryhackme.com/p/23k" target="_blank"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>
   <a href="https://app.hackthebox.com/users/491461" target="_blank"> <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=HackTheBox&logoColor=gray"/></a>  
   
-<br>
+  <br>
   
   ```js
   "Treat your password like your toothbrush. Don't let anybody else use it, and get a new one every six months."
   -Clifford Stoll
   ``` 
+
+  <br>
   
-</div>
+  🗝️ &nbsp; 54CF C27F 9B4B E1E1 D70F 0235 <a href="https://zekeriyaay.com/gpg-key.md" target="_blank"><b>C199 8F1D 1206 E9C8</b></a>
 
-<br>
-
-📝 &nbsp;***Blog Posts***
-<!-- BLOG-POST-LIST:START -->
- - [💫 How Your Daily Coffee Habit Affects Your Working Efficiency?](https://blog.zekeriyaay.com/how-your-daily-coffee-habit-affects-your-working-efficiency) &nbsp; *Feb 26, 2023*
- - [👽️ Arduino Nano &amp; nRF24L01 ile Walkie-Talkie](https://blog.zekeriyaay.com/arduino-walkie-talkie) &nbsp; *Mar 22, 2022*<!-- BLOG-POST-LIST:END -->
-<br>*See my other posts on [🤙🏼 blog.zekeriyaay.com](https://blog.zekeriyaay.com/)*
-
-🚨 &nbsp;***Youtube Videos*** 
-<!-- YOUTUBE-VIDEO-LIST:START -->
- - [💫 Zekeriya AY Banner Pack | Speedart](https://www.youtube.com/watch?v=ohkR-0WmgDY)
- - [👽️ Projelerde Aktif Git ve GitHub Kullanımı](https://www.youtube.com/watch?v=yPl6P1tXTH8)
- - [🔥 SANAL MAKİNE YOK EDİCİ | WSL 2](https://www.youtube.com/watch?v=rMk3uahvdh0)<!-- YOUTUBE-VIDEO-LIST:END -->
-<br>*See more of my videos on [❤️ Youtube](https://youtube.com/@ZekeriyaAY)*
-
-<br>
-
-<div align="center">
+  <br>
   <div>
   <i><b>🚩 &nbsp; Last Update</b></i> &nbsp;<!-- LAST-UPDATE:START -->
 Thu  29 Jun 2023  01:43:04 UTC
 <!-- LAST-UPDATE:END -->
-  </div>
-  <div>
+  <br>
   <i>
     🚀 &nbsp; Powered by <a href="https://github.com/marketplace/actions/datetime-of-workflow" target="_blank">datetime-of-workflow</a>
   </i>
