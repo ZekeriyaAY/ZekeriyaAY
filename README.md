@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"> welcome to <s><a href="https://www.youtube.com/watch?v=k1BneeJTDcU" target="_blank">the internet</a></s> my GitHub profile </h2>
+  <h2> welcome to <s><a href="https://www.youtube.com/watch?v=k1BneeJTDcU" target="_blank">the internet</a></s> my GitHub profile </h2>
   <h3> <i>interested in cybersecurity, servers, system administration, cti</i> </h3>
   
   <br>
