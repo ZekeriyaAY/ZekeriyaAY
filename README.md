@@ -5,7 +5,7 @@
   <br>
   
   <a href="https://zekeriyaay.com/" target="_blank"> <img src="https://img.shields.io/badge/zekeriyaay.com-0084FF.svg?style=for-the-badge&logo=zerply&logoColor=white"/></a>
-  <a href="mailto:zekeriya@zekeriyaay.com" target="_blank"> <img src="https://img.shields.io/badge/Mail%20to%20Reach%20Me-C8202B.svg?style=for-the-badge&logo=Mail.Ru&logoColor=white"/></a> 
+  <a href="mailto:mail@zekeriyaay.com" target="_blank"> <img src="https://img.shields.io/badge/Mail%20to%20Reach%20Me-C8202B.svg?style=for-the-badge&logo=Mail.Ru&logoColor=white"/></a> 
   <a href="https://raw.githubusercontent.com/ZekeriyaAY/ZekeriyaAY/main/Zekeriya%20AY%20(1206E9C8)%20–%20Public.asc" target="_blank"> <img src="https://img.shields.io/badge/My GPG Key-0093DD.svg?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/></a>
   <br>
   <a href="https://linkedin.com/in/ZekeriyaAY" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
