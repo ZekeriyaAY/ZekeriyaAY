@@ -1,7 +1,7 @@
 <div align="center">
   <h2> welcome to <s><a href="https://www.youtube.com/watch?v=k1BneeJTDcU" target="_blank">the internet</a></s> my GitHub profile </h2>
   <h3> <i>interested in cybersecurity, servers, system administration, cti</i> </h3>
-  
+  http://192.168.1.20:3001
   <br>
   
   <a href="https://zekeriyaay.com/" target="_blank"> <img src="https://img.shields.io/badge/zekeriyaay.com-0084FF.svg?style=for-the-badge&logo=zerply&logoColor=white"/></a>
