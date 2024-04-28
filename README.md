@@ -1,7 +1,6 @@
 <div align="center">
   <h2> welcome to <s><a href="https://www.youtube.com/watch?v=k1BneeJTDcU" target="_blank">the internet</a></s> my GitHub profile </h2>
   <h3> <i>interested in cybersecurity, servers, system administration, cti</i> </h3>
-  http://192.168.1.20:3001
   <br>
   
   <a href="https://zekeriyaay.com/" target="_blank"> <img src="https://img.shields.io/badge/zekeriyaay.com-0084FF.svg?style=for-the-badge&logo=zerply&logoColor=white"/></a>
@@ -10,7 +9,6 @@
   <br>
   <a href="https://linkedin.com/in/ZekeriyaAY" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://youtube.com/@ZekeriyaAY" target="_blank"> <img src="https://img.shields.io/badge/Youtube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <a href="https://twitter.com/0x23k" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <br>
   <a href="https://www.hackerrank.com/ZekeriyaAY" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/23k" target="_blank"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>
