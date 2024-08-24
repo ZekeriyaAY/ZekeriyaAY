@@ -8,11 +8,7 @@
   <a href="https://raw.githubusercontent.com/ZekeriyaAY/ZekeriyaAY/main/Zekeriya%20AY%20(1206E9C8)%20–%20Public.asc" target="_blank"> <img src="https://img.shields.io/badge/My GPG Key-0093DD.svg?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/></a>
   <br>
   <a href="https://linkedin.com/in/ZekeriyaAY" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://youtube.com/@ZekeriyaAY" target="_blank"> <img src="https://img.shields.io/badge/Youtube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <br>
   <a href="https://www.hackerrank.com/ZekeriyaAY" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/23k" target="_blank"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>
-  <a href="https://app.hackthebox.com/users/491461" target="_blank"> <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=HackTheBox&logoColor=gray"/></a>  
   
   <br>
   
