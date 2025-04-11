@@ -5,7 +5,6 @@
   
   <a href="https://zekeriyaay.com/" target="_blank"> <img src="https://img.shields.io/badge/zekeriyaay.com-0084FF.svg?style=for-the-badge&logo=zerply&logoColor=white"/></a>
   <a href="mailto:zekeriya@zekeriyaay.com" target="_blank"> <img src="https://img.shields.io/badge/Mail%20to%20Reach%20Me-C8202B.svg?style=for-the-badge&logo=Mail.Ru&logoColor=white"/></a> 
-  <a href="https://raw.githubusercontent.com/ZekeriyaAY/ZekeriyaAY/main/Zekeriya%20AY%20(1206E9C8)%20–%20Public.asc" target="_blank"> <img src="https://img.shields.io/badge/My GPG Key-0093DD.svg?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/></a>
   <br>
   <a href="https://linkedin.com/in/ZekeriyaAY" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/ZekeriyaAY" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
@@ -16,10 +15,6 @@
   "Treat your password like your toothbrush. Don't let anybody else use it, and get a new one every six months."
   -Clifford Stoll
   ``` 
-
-  <br>
-  
-  🗝️ &nbsp; 54CF C27F 9B4B E1E1 D70F 0235 <a href="https://raw.githubusercontent.com/ZekeriyaAY/ZekeriyaAY/main/Zekeriya%20AY%20(1206E9C8)%20–%20Public.asc" target="_blank"><b>C199 8F1D 1206 E9C8</b></a>
 
   <br>
   <div>
